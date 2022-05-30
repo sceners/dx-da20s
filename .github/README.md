@@ -1,4 +1,4 @@
-# Disasm Sources.
+# DISASM Sources.
 
 #### Written in 1998 January.
 
